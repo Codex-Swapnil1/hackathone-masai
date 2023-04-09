@@ -8,6 +8,10 @@ Candy Crush Saga is a puzzle game that involves making matches of 3 or more colo
   - TypeScript
   - Redux Toolkit
   - Tailwind
+  - NodeJS
+  - Express
+  - MongoDB
+  - Mongoose
   - Loadash
  
 ## Interface of the Game :-
