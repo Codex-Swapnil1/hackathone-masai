@@ -1,7 +1,6 @@
 # Candy Crush Game 
 
-Candy Crush Saga is a puzzle game that involves making matches of 3 or more colored candy pieces. Players swap candy pieces either horizontally and vertically, and once a match is made, the candy disappears, causing the surrounding pieces of candy to fall into the empty spaces
-
+Candy Crush is a puzzle game that involves making matches of 3 or more colored candy pieces. Players swap candy pieces either horizontally and vertically, and once a match is made, the candy disappears, causing the surrounding pieces of candy to fall into the empty spaces
 
 ## TechStack Used :-
 
